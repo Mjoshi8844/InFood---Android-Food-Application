@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "771758794281",
+    "project_id": "infoodfinal",
+    "storage_bucket": "infoodfinal.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:771758794281:android:899960b945c74b3dcd9e38",
+        "android_client_info": {
+          "package_name": "com.example.infood"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "771758794281-ss60edfgi5v09ghb3bdo7cic9ttakj9f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYcw4oZuajsdd8A5Tbe1TVOOhjPBKpZqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "771758794281-ss60edfgi5v09ghb3bdo7cic9ttakj9f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
